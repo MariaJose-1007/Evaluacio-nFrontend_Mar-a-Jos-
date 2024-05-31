@@ -1,29 +1,29 @@
 body {
-    font-family: Arial, sans-serif; /* Friendly and clear font */
-    background-color: #f0f0f0; /* Light gray background */
+    font-family: Arial, sans-serif; 
+    background-color: #f0f0f0; 
     margin: 0;
-    display: flex; /* Center the form horizontally */
+    display: flex; 
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Form takes up the entire viewport height */
+    min-height: 100vh; 
   }
   
  body {
     background-image: url('fondo.jpg');
   }
   .container {
-    width: 400px; /* Adjust width as needed */
-    background-color: #24303c; /* White background for the form */
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 5px; /* Rounded corners */
-    padding: 30px; /* Spacing for better visual hierarchy */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    width: 400px; 
+    background-color: #24303c; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 30px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
   }
   
   h1 {
     text-align: center;
     margin-bottom: 20px;
-    color: #ffffff; /* Darker gray heading */
+    color: #ffffff; 
   }
   
   .campo {
@@ -34,34 +34,34 @@ body {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #333; /* Darker gray for labels */
+    color: #333; 
   }
   
   input,
   textarea {
     width: 100%;
     padding: 8px;
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 3px; /* Rounded corners */
-    font-size: 16px; /* Consistent font size */
+    border: 1px solid #ccc; 
+    border-radius: 3px; 
+    font-size: 16px; 
   }
   .button-container {
-    display: flex; /* Enable Flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
   }
   button { 
-    background-color: #4f6ba7 ; /* Green primary button */
+    background-color: #4f6ba7 ; 
     color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    transition: background-color 0.2s ease-in-out; /* Smooth hover effect */
+    transition: background-color 0.2s ease-in-out; 
   }
   
   button:hover {
-    background-color: #c9cfd2 ; /* Darker green on hover */
+    background-color: #c9cfd2 ; 
   }
   
   #mensaje {
