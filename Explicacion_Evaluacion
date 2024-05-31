@@ -1,0 +1,6 @@
+Explicacion:
+
+El Index.html, style.Css y script.js, se encuentran dentro de la carpeta prueba.
+
+Realice correctamente el formulario de registro, solo que el servicio en https://veraxapi.stackcode.io/api/createuser parece estar fuera de línea o no disponible, 
+ya que no me deja utilizarlo y me arroja el mensaje de error mencionado anteriormente. 
